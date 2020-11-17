@@ -5,4 +5,4 @@ eureka:
 logging:
   level:
     com.yisu: debug
-version: eureka-4.01115
+version: eureka-4.011156
